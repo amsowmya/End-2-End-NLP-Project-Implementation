@@ -11,4 +11,5 @@ google-cloud-storage
 fastapi
 uvicorn
 jinja2
+ipykernel
 -e .
