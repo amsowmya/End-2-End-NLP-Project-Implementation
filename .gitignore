@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 
 hateenv/
+artifacts/*
 
 # C extensions
 *.so
