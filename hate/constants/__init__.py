@@ -44,3 +44,12 @@ MAX_LEN = 300
 LOSS = 'binary_crossentropy'
 METRICS = ['accuracy']
 ACTIVATION = 'sigmoid'
+
+# Model Evaluation constants
+MODEL_EVALUATION_ARTIFACTS_DIR = "ModelevaluationArtifacts"
+BEST_MODEL_DIR = "best_model"
+MODEL_EVALUATION_FILE_NAME = 'loss.csv'
+
+MODEL_NAME = 'model.h5'
+APP_HOST = "0.0.0.0"
+APP_PORT = 8080
